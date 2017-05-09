@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Site settings
 title: "TannerHu"
 email: tannerhu@outlook.com
@@ -40,4 +38,3 @@ kramdown:
 
 permalink: pretty
 exclude: [vendor]
->>>>>>> blog test
