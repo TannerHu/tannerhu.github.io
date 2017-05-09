@@ -1,6 +1,6 @@
 # Site settings
 title: "TannerHu"
-email: tannerhu@outlook.com
+email: "tannerhu@outlook.com"
 description: "A dark blog theme for Jekyll."
 baseurl: "https://tannerhu.github.io/"
 url: "http://tannerhu.github.io/"
