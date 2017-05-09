@@ -10,18 +10,18 @@ google_analytics: "UA-98835104-1"
 # disqus_account: 
 # github_repository: 
 #<!-- Go to www.addthis.com/dashboard to customize your tools -->
-addthis_id: ra-5911f7c606e5310a
-post_limit: 5
+addthis_id: "ra-5911f7c606e5310a"
+post_limit: "5"
 
 # Social usernames/URLs
-twitter_username: tanner_hu
-github_username: tannerhu
+twitter_username: "tanner_hu"
+github_username: "tannerhu"
 # instagram_username: 
 # reddit_username:
-weibo_username: tannerhu 
-linkedin_link: https://www.linkedin.com/
-google_plus_link: https://www.google.com/
-stackoverflow_link: https://www.google.com/
+weibo_username: "tannerhu" 
+linkedin_link: "https://www.linkedin.com/"
+google_plus_link: "https://www.google.com/"
+stackoverflow_link: "https://www.google.com/"
 # xing_link:
 # facebook_link:
 
@@ -30,11 +30,11 @@ footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://tanne
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/tannerhu/tannerhu.github.io\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
-markdown: kramdown
+markdown: "kramdown"
 
 # kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+  input: "GFM"
+  syntax_highlighter: "rouge"
 
-permalink: pretty
-exclude: [vendor]
+permalink: "pretty"
+exclude: "[vendor]"
