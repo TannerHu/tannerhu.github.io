@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TannerHu</title>
+    <description>A dark blog theme for Jekyll.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 10 May 2017 03:18:36 +0800</pubDate>
+    <lastBuildDate>Wed, 10 May 2017 03:18:36 +0800</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Hello Word</title>
+        <description>&lt;h1 id=&quot;标题1&quot;&gt;标题1&lt;/h1&gt;
+&lt;p&gt;测试下博文功能~&lt;/p&gt;
+&lt;h1 id=&quot;标题2&quot;&gt;标题2&lt;/h1&gt;
+&lt;p&gt;测试下博文功能~&lt;/p&gt;
+&lt;h3 id=&quot;标题3&quot;&gt;标题3&lt;/h3&gt;
+&lt;p&gt;测试下博文功能~&lt;/p&gt;
+&lt;h4 id=&quot;标题4&quot;&gt;标题4&lt;/h4&gt;
+&lt;p&gt;测试下博文功能~&lt;/p&gt;
+
+&lt;h1 id=&quot;code&quot;&gt;CODE&lt;/h1&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exece jekyll serve&lt;/code&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 08 May 2017 12:00:00 +0800</pubDate>
+        <link>http://localhost:4000/jekyll/2017/05/08/hello-word/</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/2017/05/08/hello-word/</guid>
+        
+        <category>Hello</category>
+        
+        <category>Word</category>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+  </channel>
+</rss>
