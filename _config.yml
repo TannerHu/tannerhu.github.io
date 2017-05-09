@@ -1,1 +1,44 @@
+<<<<<<< HEAD
 theme: jekyll-theme-cayman
+=======
+theme: jekyll-theme-slate# Site settings
+title: "TannerHu"
+email: tannerhu@outlook.com
+description: "A dark blog theme for Jekyll."
+baseurl: ""
+url: "http://tannerhu.github.io/"
+title_description: "新建的Blog测试一下~ "
+title_image: "http://wx4.sinaimg.cn/mw690/692c65a4gy1ffezw684phj20dw0dwdlj.jpg"
+google_analytics: "UA-98835104-1"
+disqus_account: 
+github_repository: 
+#<!-- Go to www.addthis.com/dashboard to customize your tools -->
+addthis_id: ra-5911f7c606e5310a
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: tanner_hu
+github_username:  tannerhu
+instagram_username: 
+reddit_username:
+weibo_username:  tannerhu 
+linkedin_link: https://www.linkedin.com/
+google_plus_link: https://www.google.com/
+stackoverflow_link: https://www.google.com/
+xing_link:
+facebook_link:
+
+# Footer
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://tannerhu.com/_TannerHu\">TannerHu</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/tannerhu/tannerhu.github.io\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]
+>>>>>>> blog test
