@@ -1,0 +1,60 @@
+---
+layout: default
+make-smaller-titles: true
+---
+
+
+<div class="container-fluid index">
+    <h3 class="lt" itemprop="headline"><small>语言：
+      <div class="dropdown btn-group">
+        <button class="btn btn-categories dropdown-toggle btn-xs" type="button" data-toggle="dropdown">中文
+          <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu">
+          <li><a href="{{ site.baseurl }}/index-en/">English</a></li>
+        </ul>
+      </div>
+
+    </small></h3>
+        <div class="row">
+
+            <div class="col-md-12 main content-panel">
+
+                <div class="gravatar">
+                    <img src="{{ site.title_image }}" class="img-circle about-image" height="150" width="150" alt="{{ site.title }}" />
+                </div>
+
+                <h1 class="header author-header" itemprop="headline">123苏打水</h1>
+
+                <div class="author-text">
+                    {{ site.title_description }}
+                </div>
+
+                {% include social_links.html %}
+            </div>
+            <div class="col-md-12 main content-panel">
+
+                <div class="articles">
+
+                  <h2>最新文章</h2>
+
+                    <ul>
+                        {% for post in site.posts limit: site.post_limit %}
+
+                            <li>
+                                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                                <small class="hidden-xs">{{ post.date | date: "%Y-%m-%d" }}</small>
+                            </li>
+
+                         {% endfor %}
+                        <li>
+                          <small><i><a href="{{ site.baseurl }}/posts/">更多...</a></i></small>
+                        </li>
+                    </ul>
+
+                </div>
+
+            </div>
+
+        </div>
+</div>
