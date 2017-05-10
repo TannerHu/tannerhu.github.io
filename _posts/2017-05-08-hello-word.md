@@ -59,15 +59,6 @@ end
 
 ```
 
-padding 123
-
-line-height
-
-margin
-
-font-size
-
-
 # 列表 #
 
   * Apples
