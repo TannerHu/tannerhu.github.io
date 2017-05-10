@@ -174,12 +174,24 @@ ul {
     margin-top: 0px;
     margin-left: 600px;
     margin-right: 0px; }
+    @media (min-width: 768px) {
+      .index .lt {
+        margin-left: 350px; } }
+    @media (min-width: 992px) {
+      .index .lt {
+        margin-left: 600px; } }
   .index .lt2 {
     height: 100%;
     max-height: 100%;
     margin-top: 0px;
     margin-left: 545px;
     margin-right: 0px; }
+    @media (min-width: 768px) {
+      .index .lt2 {
+        margin-left: 320px; } }
+    @media (min-width: 992px) {
+      .index .lt2 {
+        margin-left: 545px; } }
   .index .row {
     height: 100%;
     max-height: 100%;

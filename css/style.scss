@@ -279,6 +279,13 @@ ul {
         margin-top: 0px;
 		margin-left: 600px;
 		margin-right: 0px;
+		@media (min-width: $screen-sm-min) {
+			margin-left: 350px;
+		}
+
+		@media (min-width: $screen-md-min) {
+			margin-left: 600px;
+		}
 	}
 		.lt2{
 	    height: 100%;
@@ -286,6 +293,13 @@ ul {
         margin-top: 0px;
 		margin-left: 545px;
 		margin-right: 0px;
+		@media (min-width: $screen-sm-min) {
+			margin-left: 320px;
+		}
+
+		@media (min-width: $screen-md-min) {
+			margin-left: 545px;
+		}
 	}
 
 	.row {
