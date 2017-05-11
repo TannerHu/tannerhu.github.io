@@ -30,6 +30,7 @@ $medium-purple:  #480048;
 $regular-purple: #601848;
 $red:            #C04848;
 $orange:         #F07241;
+$dblue:          #395380;
 
 /* Responsive sizes */
 $screen-sm-min: 768px;
@@ -859,8 +860,8 @@ ul {
 	width: 100%;
 	margin-left: 0%;
 
-	.fa-heart {
-		color: $red;
+	.fa-cog {
+		color: $dblue;
 	}
 
 	@media (min-width: $screen-sm-min) {

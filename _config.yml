@@ -16,17 +16,18 @@ post_limit: 5
 # Social usernames/URLs
 twitter_username: tanner_hu
 github_username:  tannerhu
+facebook_username: axiaojk
 instagram_username: 
 reddit_username:
 weibo_username:  tannerhu 
 linkedin_link: https://www.linkedin.com/
-google_plus_link: https://www.google.com/
-stackoverflow_link: https://www.google.com/
+google_plus_link: https://plus.google.com/u/0/118078970825197677521
+stackoverflow_link: http://stackoverflow.com/
 xing_link:
 facebook_link:
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://tannerhu.com/_TannerHu\">TannerHu</a>"
+footer_left: "Made with <i class=\"fa fa-cog fa-spin\"></i> using <a href=\"http://jekyllrb.com\">Jekyll</a>"
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/tannerhu/tannerhu.github.io\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings

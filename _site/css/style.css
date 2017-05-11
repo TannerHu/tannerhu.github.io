@@ -544,8 +544,8 @@ ul {
 .footer {
   width: 100%;
   margin-left: 0%; }
-  .footer .fa-heart {
-    color: #C04848; }
+  .footer .fa-cog {
+    color: #395380; }
   @media (min-width: 768px) {
     .footer {
       width: 90%;
