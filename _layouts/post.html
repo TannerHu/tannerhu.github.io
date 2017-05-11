@@ -102,7 +102,7 @@ layout: default
 
       </div>
 
-      {% if site.twitter_username and site.disqus_account %}
+      {% if site.weibo_username and site.disqus_account %}
       <div class="content-panel feedback">
         I <i class="fa fa-heart"></i> feedback.<br />
         让我知道你对 <i class="fa fa-weibo"></i> <a href="http://weibo.com/{{ site.weibo_username }}">@{{ site.weibo_username }}</a> 的这篇文章的看法，或者在下面发表评论！
@@ -110,20 +110,20 @@ layout: default
       {% elsif site.twitter_username %}
       <div class="content-panel feedback">
         I <i class="fa fa-heart"></i> feedback.<br />
-        Let me know what you think of this article on twitter <a href="http://www.twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a>!
+        在 <i class="fa fa-twitter"></i> <a href="http://www.twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a>让我知道你对这篇文章的看法！
       </div>
       {% elsif site.disqus_account %}
       <div class="content-panel feedback">
         I <i class="fa fa-heart"></i> feedback.<br />
-        Let me know what you think of this article in the comment section below!
+        在下面评论部分让我知道你对本文的看法！
       </div>
       {% endif %}
 
       {% if site.disqus_account %}
       <div class="content-panel comments">
         <div id="disqus_thread">
-          <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-          <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+          <noscript>请启用JavaScript以查看 <a href="http://disqus.com/?ref_noscript"> 评论由Disqus提供支持。</a></noscript>
+          <a href="http://disqus.com" class="dsq-brlink">评论由 <span class="logo-disqus">Disqus</span> 提供支持，国内请开VPN~</a>
         </div>
       </div>
       {% endif %}
