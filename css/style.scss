@@ -5,23 +5,24 @@
 @import url(https://fonts.googleapis.com/css?family=Anonymous+Pro:400,700);
 
 /* Colours */
-$twitter:        #6dabda;
+$twitter:        #4EACDB;
 $linkedin:       #2b77b1;
 $xing:           #006567;
 $google-plus:    #c95644;
 $facebook:       #365899;
-$github:         #f6c2a4;
+$github:         #1A1C1D;
 $stack-overflow: #c98b3b;
 $instagram:      #cd486b;
 $reddit:         #cee3f8;
 $rss:            #eea33a;
+$weibo:          #c95644;
 
 $darker:         #21211E;
 $dark:           #2D2D29;
 $medium:         #3B3B35;
 $light-medium:   #969696;
 $dark-blue:      #215A6D;
-$light-blue:     #3CA2A2;
+$light-blue:     #5D9A92;
 $green:          #92C7A3;
 $light:          #DFECE6;
 $white:          #FFFFFF;
@@ -31,6 +32,7 @@ $regular-purple: #601848;
 $red:            #C04848;
 $orange:         #F07241;
 $dblue:          #395380;
+$lineblue:       #24606D;
 
 /* Responsive sizes */
 $screen-sm-min: 768px;
@@ -136,7 +138,7 @@ ul {
 	padding-right: 30px;
 	margin-top: 20px;
 	box-shadow: 0px 0px 0px 0px, 0px 6px 12px rgba(0, 0, 0, 0.2);
-	border-bottom: 5px solid $light-blue;
+	border-bottom: 5px solid $lineblue;
 }
 
 #my-menu {
@@ -220,6 +222,10 @@ ul {
 	.fa-rss:hover {
 		color: $rss;
 	}
+	
+	.fa-weibo:hover {
+		color: $weibo;
+	}
 }
 
 /* Index */
@@ -253,7 +259,7 @@ ul {
 	}
 
 	.content-panel:nth-of-type(1) {
-		border-bottom: 10px solid $light-blue;
+		border-bottom: 10px solid $lineblue;
 	}
 
 	.author-header {
