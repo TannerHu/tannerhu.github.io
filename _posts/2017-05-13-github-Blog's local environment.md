@@ -123,7 +123,8 @@ Rubygems是类似Radhat的RPM、centOS的Yum、Ubuntu的apt-get的应用程序�
 
 ![Thumper](http://wx2.sinaimg.cn/mw690/692c65a4gy1ffk1xir31tj20t90hs0w2.jpg)
 
-在浏览器地址里输入上面显示**Server address**地址就可以打开本地生成页面了
+在浏览器地址里输入上面显示**Server address**地址就可以打开本地生成页面了。
+在cmd下按Ctrl+c停止运行服务。
 
 [1]: http://rubyinstaller.org/downloads/
 [2]: http://www.ruby-lang.org/zh_cn/downloads/
