@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      GitHub-博客搭建
+title:      GitHub-博客搭建（3）
 date:       2017/5/14 21:22:30   
 author:     Tanner Hu
 summary:    新手GitHub搭建Blog
@@ -8,7 +8,7 @@ categories: jekyll
 thumbnail:  cogs
 tags:
  - GitHub
- - 博客主页创建
+ - 博客搭建
 ---
 # 项目主页 #
 

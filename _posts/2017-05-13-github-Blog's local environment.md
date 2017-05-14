@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      GitHub上博客的本地环境构建
+title:      GitHub上博客的本地环境构建（2）
 date:       2017/5/13 16:01:18   
 author:     Tanner Hu
 summary:    新手GitHub搭建Blog
@@ -8,7 +8,7 @@ categories: jekyll
 thumbnail:  cogs
 tags:
  - GitHub
- - 博客搭建
+ - 博客
  - 本地环境构建
 ---
 # 本地环境构建 #

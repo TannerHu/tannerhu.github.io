@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      GitHub上博客的搭建-前言
+title:      GitHub上博客的搭建-前言（1）
 date:       2017/5/11 22:31:32  
 author:     Tanner Hu
 summary:    新手GitHub搭建Blog
