@@ -56,7 +56,13 @@ tags:
 文章一般在 **_posts** 文件夹里面的 **.md** 文件 你可以下载个 [MarkdownPad][4] 用来编写博文，按照现成版模里 **.md** 文件的样板编辑头信息，下面写文章写完保存在
 你本地的 `/username.github.io/_posts` 目录下用 **GitHub Desktop** 上传到 GitHub 就可以在你的博客上看到了。（ Notepad++ 基本可以打开现成版模里所有代码文件编辑，慢慢摸索吧，等熟悉了结构和语言你就可以自己写代码了～）
 
+[GitHub上博客的搭建-前言（1）][5] ; [GitHub上博客的本地环境构建（2）][6] ; [GitHub-博客搭建（3）][7] ; [GitHub-博客域名设置（4）][8]
+
 [1]: https://github.com/join?source=header-home
 [2]: https://notepad-plus-plus.org/download/v7.3.3.html
 [3]: https://desktop.github.com/
 [4]: http://markdownpad.com/
+[5]: /jekyll/2017/05/11/guithub-Blog-to-build-preface/
+[6]: /jekyll/2017/05/13/github-Blog's-local-environment/
+[7]: /jekyll/2017/05/14/github-Blog-home-page-created/
+[8]: /jekyll/2017/05/15/github-Blog-domain-name-setting/

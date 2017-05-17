@@ -126,9 +126,15 @@ Rubygems是类似Radhat的RPM、centOS的Yum、Ubuntu的apt-get的应用程序�
 在浏览器地址里输入上面显示**Server address**地址就可以打开本地生成页面了。
 在cmd下按Ctrl+c停止运行服务。
 
+[GitHub上博客的搭建-前言（1）][7] ; [GitHub上博客的本地环境构建（2）][8] ; [GitHub-博客搭建（3）][9] ; [GitHub-博客域名设置（4）][10]
+
 [1]: http://rubyinstaller.org/downloads/
 [2]: http://www.ruby-lang.org/zh_cn/downloads/
 [3]: http://rubyinstaller.org/downloads/
 [4]: https://rubygems.org/pages/download/
 [5]: http://gems.ruby-china.org/
 [6]: http://jekyllthemes.org/
+[7]: /jekyll/2017/05/11/guithub-Blog-to-build-preface/
+[8]: /jekyll/2017/05/13/github-Blog's-local-environment/
+[9]: /jekyll/2017/05/14/github-Blog-home-page-created/
+[10]: /jekyll/2017/05/15/github-Blog-domain-name-setting/

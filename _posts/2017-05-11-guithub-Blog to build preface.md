@@ -43,8 +43,15 @@ GitHub上的免费用户账号虽然没有官方声明的磁盘限制，但据�
 
 是在GitHub的`username.github.io`存储库里用户编写的文件生成的静态页面，可以使用jekyll来布局页面，使用非常流行的markdown来书写正文，还可以自定义域名。
 
+[GitHub上博客的搭建-前言（1）][3] ; [GitHub上博客的本地环境构建（2）][4] ; [GitHub-博客搭建（3）][5] ; [GitHub-博客域名设置（4）][6]
+
 
 
 
 [1]: https://github.com/
 [2]: https://pages.github.com/
+[3]: /jekyll/2017/05/11/guithub-Blog-to-build-preface/
+[4]: /jekyll/2017/05/13/github-Blog's-local-environment/
+[5]: /jekyll/2017/05/14/github-Blog-home-page-created/
+[6]: /jekyll/2017/05/15/github-Blog-domain-name-setting/
+ 

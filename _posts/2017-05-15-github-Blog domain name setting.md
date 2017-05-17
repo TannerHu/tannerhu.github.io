@@ -15,7 +15,7 @@ tags:
 
 首先得要注册个自己的域名，这里推荐几个域名注册平台，非常热门的 [Godaddy][1] 很适合新手，支持国内的支付宝支付，刚开始新注册用优惠码有不小力度的优惠，但是到期后续费价格就略坑了，续费的优惠码也少。国内的 [万网][2] 价格真的是非常棒！只是国内的网址备案政策流程要走20多天... 下面列些国外比较热门域名平台（知道的不多，我也只是刚建博客有兴趣的去多了解下吧我自己用的是Godaddy毕竟热门资料多，等要续费时转namesilo价格看起来挺不错的） [美国域名中心][3] ; [name][4] ; [namecheap][5] ; [namesilo][6] ; [pananames][7] ;
 
-注册好域名后，先到 GitHub 的 **username** .github.io目录下新建个名字为 **CNAME** 的文件，里面输入刚注册的一级域名例如我的是 `www.haxbk.com` 然后点提交更改给 master 支线。
+注册好域名后，先到 GitHub 的 **username** .github.io目录下新建个名字为 **CNAME** 的文件，里面输入刚注册的一级域名例如我的是 `haxbk.com` 然后点提交更改给 master 支线。
 
 Godaddy 默认用的 DNS 解析貌似被墙了，所以要把域名的 DNS 解析交给国内的服务器，我这里推荐用国内免费的 [DNSPOD][8] 可以用QQ登陆具体操作步骤可以参考 [如何使用dnspod解析域名][9] ，添加记录里的 **记录值** 就用你**username**.github.io 当然前面要选采用CNAME记录，相比用A记录的有CDN加速。
 
@@ -33,6 +33,8 @@ Godaddy 默认用的 DNS 解析貌似被墙了，所以要把域名的 DNS 解�
 
 DNSPOD 解析的设置不是立即生效的，等10分钟左右用新设置的域名进博客试试~ 
 
+[GitHub上博客的搭建-前言（1）][11] ; [GitHub上博客的本地环境构建（2）][12] ; [GitHub-博客搭建（3）][13] ; [GitHub-博客域名设置（4）][14]
+
 [1]: https://sg.godaddy.com/
 [2]: https://wanwang.aliyun.com/
 [3]: http://www.usdomaincenter.com/
@@ -43,3 +45,7 @@ DNSPOD 解析的设置不是立即生效的，等10分钟左右用新设置的�
 [8]: https://www.dnspod.cn/Login?r=/console/dns
 [9]: https://jingyan.baidu.com/article/546ae1857c4ee81149f28cbe.html
 [10]: https://sg.godaddy.com/
+[11]: /jekyll/2017/05/11/guithub-Blog-to-build-preface/
+[12]: /jekyll/2017/05/13/github-Blog's-local-environment/
+[13]: /jekyll/2017/05/14/github-Blog-home-page-created/
+[14]: /jekyll/2017/05/15/github-Blog-domain-name-setting/
