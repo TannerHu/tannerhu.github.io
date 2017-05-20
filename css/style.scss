@@ -280,34 +280,7 @@ ul {
 			padding-top: 28px;
 		}
 	}
-	.lt{
-	        height: 100%;
-		max-height: 100%;
-                margin-top: 0px;
-		margin-left: 320px;
-		margin-right: 0px;
-		@media (min-width: 500px) {
-			margin-left: 450px;
-		}
-
-		@media (min-width: $screen-md-min) {
-			margin-left: 600px;
-		}
-	}
-	.lt2{
-	        height: 100%;
-		max-height: 100%;
-                margin-top: 0px;
-		margin-left: 300px;
-		margin-right: 0px;
-		@media (min-width: 500px) {
-		        margin-left: 425px;
-		}
-
-		@media (min-width: $screen-md-min) {
-			margin-left: 545px;
-		}
-	}
+	
 
 	.row {
 		height: 100%;
